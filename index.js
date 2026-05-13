@@ -25,8 +25,8 @@ const preparingProducts = (product) => {
 // Function to display the success of the order
 const readyProducts = (product) => {
     const successParagraph = document.querySelector(`#status-${product}`);
-        successParagraph.classList.add("order-success");
-        successParagraph.textContent = `${product} is ready ✅`;
+    successParagraph.classList.add("order-success");
+    successParagraph.textContent = `${product} is ready ✅`;
 }
 
 // Function of the simulation
