@@ -11,6 +11,7 @@ A pure JavaScript simulator that models real-time restaurant operations. This pr
 4. [Technologies Used](#technologies-used)
 5. [Live Demo](#live-demo)
 6. [Author](#author)
+7. [License](#license)
 
 ---
 
