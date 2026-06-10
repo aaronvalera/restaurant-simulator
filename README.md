@@ -6,11 +6,11 @@ A pure JavaScript simulator that models real-time restaurant operations. This pr
 
 ## Index
 1. [Project Overview](#project-overview)
-2. [Asynchronous Logic](#-asynchronous-logic)
-3. [Key Features](#-key-features)
-4. [Technologies Used](#-technologies-used)
-5. [Live Demo](#-live-demo)
-6. [Author](#-author)
+2. [Asynchronous Logic](#asynchronous-logic)
+3. [Key Features](#key-features)
+4. [Technologies Used](#technologies-used)
+5. [Live Demo](#live-demo)
+6. [Author](#author)
 
 ---
 
