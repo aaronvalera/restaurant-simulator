@@ -52,6 +52,13 @@ The most important part of this project is the implementation of **Async/Await**
 Experience the pizza-making process live here:  
 **[Play Restaurant Simulator](https://aaronvalera.github.io/restaurant-simulator/)**
 
+---
+
 ## Author
 **Aaron Valera**  
 * GitHub: [@aaronvalera](https://github.com/aaronvalera)
+
+---
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
