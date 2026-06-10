@@ -46,7 +46,7 @@ The most important part of this project is the implementation of **Async/Await**
 ---
 
 ## Technologies Used
-* **JavaScript (ES6+)*** - Native asynchronous architecture, execution loops, and Promise objects.
+* **JavaScript (ES6+)** - Native asynchronous architecture, execution loops, and Promise objects.
 ---
 
 ##  Live Demo
