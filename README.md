@@ -26,7 +26,7 @@ The simulation models the workflow of a restaurant from the moment an order is p
 
 ---
 
-## Asynchronous Logic (The Core)
+## Asynchronous Logic
 The most important part of this project is the implementation of **Async/Await** and **Promises** to handle the flow of an order.
 
 **Highlights include:**
